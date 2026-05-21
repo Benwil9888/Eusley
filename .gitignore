@@ -1,0 +1,28 @@
+# dependencies
+node_modules
+
+# builds
+dist
+dist-ssr
+
+# environment variables
+.env
+.env.*
+
+# logs
+*.log
+
+# local files
+*.local
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
