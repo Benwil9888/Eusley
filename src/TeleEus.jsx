@@ -618,7 +618,7 @@ export default function TeleEusWebsite() {
             {/* Contact Details */}
             <div style={{ display: "flex", flexDirection: "column", gap: 16 }}>
               {[
-                { icon: <Phone size={16} color="#3B82F6"/>, text: "+254 712 345 678" },
+                { icon: <Phone size={16} color="#3B82F6"/>, text: "+254 710317319" },
                 { icon: <Mail  size={16} color="#3B82F6"/>, text: "hello@teleeus.com" },
                 { icon: <MapPin size={16} color="#3B82F6"/>, text: "Nairobi, Kenya" },
               ].map((c, i) => (
